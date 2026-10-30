@@ -64,5 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-docsautomator-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://docsautomator.co/
+DocsAutomator provides a platform to generate, sign, and manage documents automatically from templates in Google Docs, Word, or PDF, integrating with data sources like Airtable, Notion, Google Sheets, Zapier, ChatGPT, Claude, and a REST API. It supports e‑signatures, dynamic content, and automated filing, targeting businesses seeking no‑code document automation.
+
+**Areas:** DocumentAutomation · NoCode · AI · ESignature · Integration
+
+## docsautomator-co on APIs.io
+
+Everything profiled for docsautomator-co is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docsautomator-co/](https://apis.io/providers/docsautomator-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [DocsAutomator API](https://apis.io/apis/docsautomator-co/docsautomator-api/) — REST API for programmatic document generation, automation management, and e‑signature workflows.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Docsautomator Co Authentication](https://apis.io/security/docsautomator-co/docsautomator-co-authentication/)
+- [Docsautomator Co Domain Security](https://apis.io/security/docsautomator-co/docsautomator-co-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Docsautomator Co Plans Pricing](https://apis.io/plans/docsautomator-co/docsautomator-co-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Docsautomator Co Rate Limits](https://apis.io/rate-limits/docsautomator-co/docsautomator-co-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docsautomator.co/)
+- [Documentation](https://docsautomator.co/docs)
+- [Getting started](https://app.docsautomator.co)
+- [API reference](https://docsautomator.co/docs)
+- [Pricing](https://www.docsautomator.co/pricing/)
+- [Changelog](https://docsautomator.co/docs/changelog)
+- [Blog](https://www.docsautomator.co/blog/)
+- [Terms of service](https://www.docsautomator.co/terms/)
+- [Privacy policy](https://www.docsautomator.co/privacy-policy/)
+- [GitHub](https://github.com/docsautomator)
+- [Status](https://status.docsautomator.co)
+
+## API Evangelist rating
+
+**Kin Score 44.6** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 65.3 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 36.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/docsautomator-co/](https://apis.io/providers/docsautomator-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for docsautomator-co: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docsautomator-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
